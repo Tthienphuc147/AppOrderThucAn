@@ -1,8 +1,10 @@
 # Order Food
-Hà Quốc Anh Kiệt 15110067 <br>
-Lê Hoàng Giang 15110034
+NGUYÊN ĐỨC TUẤN <br>
+NGUYỄN ĐỨC HOÀNG <br>
+LÊ TIẾN THÀNH <br>
+PHẠM VĂN TÚ<br>
+PHAN ĐINH THIÊN PHÚC
 
 <hr>
 
-Video demo: https://youtu.be/_l-Z5VpTzjM <br>
-Nguồn: https://myclass.vn/lap-trinh-android-qua-ung-dung-orderfood-5380.html
+
